@@ -1,9 +1,15 @@
 {
-    "sites": {
+    "domains": {
         "1": "example.com", // Owner: Pico
         "2": "pico.com", // Owner: Pico
         "3": "files.pico.com", // Owner: Pico, Domain: Pico.com
         "4": "pico.docs", // Owner: Pico
         "5": "pico.host", // Owner: Pico
+    },
+    "sites": {
+        "1": "https://xTGuy.github.io/picoweb/sites/example.com/site.json",
+        "2": "https://xTGuy.github.io/picoweb/sites/pico.com/site.json",
+        "3": "https://xTGuy.github.io/picoweb/sites/files.pico.com/site.json",
+        "4": "https://xTGuy.github.io/picoweb/sites/pico.docs/site.json"
     }
 }
