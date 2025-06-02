@@ -1,0 +1,9 @@
+{
+    "sites": {
+        "1": "example.com", // Owner: Pico
+        "2": "pico.com", // Owner: Pico
+        "3": "files.pico.com", // Owner: Pico, Domain: Pico.com
+        "4": "pico.docs", // Owner: Pico
+        "5": "pico.host", // Owner: Pico
+    }
+}
