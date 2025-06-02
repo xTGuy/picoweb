@@ -1,0 +1,10 @@
+{
+    "siteurl": "example.com",
+    "data": {
+        "1": "Example.com",
+        "2": "This website is a PicoWeb website that is a proof that PicoWeb actually works",
+        "3": "This site can be used in any document or website in PicoWeb",
+        "4": "For more info, visit \"pico.docs\"",
+        "5": "end"
+    }
+}
